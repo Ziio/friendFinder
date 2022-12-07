@@ -18,8 +18,8 @@
   },
   "homepage": "https://github.com/calvinleung0/friendFinder#readme",
   "dependencies": {
-    "body-parser": "^1.18.3",
-    "express": "^4.16.3",
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
     "http": "0.0.0",
     "path": "^0.12.7"
   }
